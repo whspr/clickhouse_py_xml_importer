@@ -5,6 +5,7 @@ First you need to install [clickhouse db](https://clickhouse.yandex/reference_ru
 
 Second you need to install requirements
 > pip install -r requirements.txt
+
 Thats all
 # Using
 You can run this by
